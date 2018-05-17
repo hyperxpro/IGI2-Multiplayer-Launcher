@@ -56,10 +56,6 @@ public class ServerConnector {
 
             String Response = new Decryption(Main.AESSecretKey, Main.CBCA, Main.CBCB, Main.KeyAES, Main.Key, Main.IV, getData.readLine()).Decrypt();
 
-            socket.close();
-            getData.close();
-            sendData.close();
-
             return Response;
 
         } catch (java.net.ConnectException ex) {
