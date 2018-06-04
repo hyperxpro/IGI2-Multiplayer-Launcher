@@ -75,6 +75,7 @@ public class ServerConnector {
                 try {
                     socket.close();
                 } catch (IOException ex) {
+                    // Catching Exception Optional
                 }
             }
 
@@ -82,6 +83,7 @@ public class ServerConnector {
                 try {
                     getData.close();
                 } catch (IOException ex) {
+                    // Catching Exception Optional
                 }
             }
 
