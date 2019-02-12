@@ -6,5 +6,12 @@
         <group name="IGI-2 Multiplayer Launcher">
             <file>file:/D:/Programming/Projects/Netbeans/IGI-2/Launcher/src/aayush/atharva/igi2/multiplayer/launcher/Backend/DNSFlush.java</file>
         </group>
+        <group name="DDoS_Protection_Customization_ID-1">
+            <file>file:/C:/Users/Hyper/Desktop/igi2-multiplayer-launcher/src/aayush/atharva/igi2/multiplayer/launcher/anticheat/algorithm/filesverification/maps/priboivilla.java</file>
+            <file>file:/C:/Users/Hyper/Desktop/igi2-multiplayer-launcher/src/aayush/atharva/igi2/multiplayer/launcher/anticheat/algorithm/filesverification/maps/chinesetemple.java</file>
+            <file>file:/C:/Users/Hyper/Desktop/igi2-multiplayer-launcher/src/aayush/atharva/igi2/multiplayer/launcher/anticheat/algorithm/filesverification/maps/timberland.java</file>
+            <file>file:/C:/Users/Hyper/Desktop/igi2-multiplayer-launcher/src/aayush/atharva/igi2/multiplayer/launcher/anticheat/algorithm/filesverification/maps/island_assault.java</file>
+            <file>file:/C:/Users/Hyper/Desktop/igi2-multiplayer-launcher/src/launcher/Main.java</file>
+        </group>
     </open-files>
 </project-private>
