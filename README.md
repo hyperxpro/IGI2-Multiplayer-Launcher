@@ -1,6 +1,6 @@
 # IGI-2 Multiplayer Launcher
 ## Version: v10
-## Deprecated Version
+## Active Version
 
 # License
 ```
