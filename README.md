@@ -2,7 +2,7 @@
 ## Version: v9.6.1
 ## Deprecated Version
 
-#License
+# License
 ```
 IGI-2 Multiplayer Launcher
 ________________________________________
