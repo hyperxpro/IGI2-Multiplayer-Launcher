@@ -8,7 +8,7 @@ IGI-2 Multiplayer Launcher
 ________________________________________
 End-User License Agreement ("Agreement")
 
-Last updated: 12-February-2019
+Last updated: 22-December-2019
 
 Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using IGI-2 Multiplayer Launcher ("Application").
 
@@ -56,5 +56,5 @@ If you have any questions about this Agreement, please contact me.
 
 
 Aayush Atharva
-Email: aayush@aayushatharva.com
+Email: hyperx.pro@outlook.com
 ```
