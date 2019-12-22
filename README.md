@@ -4,7 +4,7 @@
 
 
 # License
-UPDATE: New Licence Applicable from: 29 December 2019
+UPDATE: Existing Licence Agreement will be applicable from: 29 December 2019 and new License Agreements will be Applicable from 22-December-2019 onwards.
 ```
 IGI-2 Multiplayer Launcher
 ________________________________________
