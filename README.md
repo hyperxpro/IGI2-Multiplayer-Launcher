@@ -2,7 +2,9 @@
 ## Version: v10
 ## Active Version
 
+
 # License
+UPDATE: New Licence Applicable from: 29 December 2019
 ```
 IGI-2 Multiplayer Launcher
 ________________________________________
